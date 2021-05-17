@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="7.0551">
+<testcase classname="Cargar  tipo de archivos como pagos, cheques  de  gerencia y pre Notificaciones" name="Cargar Archivo Cheque de Gerencia de forma exitosa" time="7.0551">
+<system-out><![CDATA[Entonces Modifico Archivos..................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

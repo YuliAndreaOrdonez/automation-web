@@ -1,0 +1,47 @@
+[
+  {
+    "line": 3,
+    "elements": [
+      {
+        "line": 5,
+        "name": "Cargar Archivo Cheque de Gerencia de forma exitosa",
+        "description": "",
+        "id": "cargar--tipo-de-archivos-como-pagos--cheques--de--gerencia-y-pre-notificaciones;cargar-archivo-cheque-de-gerencia-de-forma-exitosa",
+        "type": "scenario",
+        "keyword": "Escenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6732153100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Modifico Archivos",
+            "match": {
+              "location": "CargaDeArchivosStepDefinitions.modificarArchivos(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "fechaCargue"
+                ]
+              },
+              {
+                "cells": [
+                  ""
+                ]
+              }
+            ],
+            "keyword": "Entonces "
+          }
+        ]
+      }
+    ],
+    "name": "Cargar  tipo de archivos como pagos, cheques  de  gerencia y pre Notificaciones",
+    "description": "",
+    "id": "cargar--tipo-de-archivos-como-pagos--cheques--de--gerencia-y-pre-notificaciones",
+    "keyword": "Característica",
+    "uri": "src/test/resources/com/qvision/popular/features/Cambiar_Fechas_Archivos_Pagos_Prenotificaciones_y_Cheques.feature",
+    "tags": []
+  }
+]
